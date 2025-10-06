@@ -1,79 +1,91 @@
-# 💳 Sam_Creds — Soluções Financeiras
+# 💼 Projeto Real — Sam_Creds | Landing Page Financeira
 
-Site institucional moderno e responsivo desenvolvido para a **Sam_Creds**, empresa especializada em **antecipação de FGTS** e **empréstimos rápidos**.  
-O projeto oferece uma experiência fluida, visual atrativo e foco em conversão por meio de **atendimento via WhatsApp**.
+Uma landing page **100% responsiva, otimizada e de alta conversão**, criada para a **Sam_Creds**, empresa de soluções financeiras que atua com **antecipação de FGTS, empréstimos CLT e Bolsa Família**.
 
----
-
-## 🚀 Tecnologias utilizadas
-
-- **HTML5** — estrutura semântica e otimizada para SEO  
-- **TailwindCSS CDN** — estilização responsiva e moderna  
-- **JavaScript Vanilla** — interações e animações (FAQ, menu mobile, slider automático)  
-- **AOS (Animate On Scroll)** — animações suaves na rolagem  
-- **WhatsApp API** — integração direta para atendimento online  
+Este foi um **projeto real desenvolvido para um cliente**, com foco em **atrair leads pelo WhatsApp** e **transmitir credibilidade** através de um design moderno e confiável.
 
 ---
 
-## 💡 Funcionalidades principais
+## ✨ Objetivo
 
-- Página única (Landing Page) responsiva  
-- Seções dinâmicas:
-  - **Hero Section** com chamada principal e botão de WhatsApp  
-  - **Serviços** com links diretos de atendimento  
-  - **Benefícios** com ícones e descrições  
-  - **Depoimentos** em carrossel automático  
-  - **FAQ** com animações de expansão  
-- Botão fixo do WhatsApp com efeito pulsante  
-- Navegação adaptada para **desktop e mobile**
+O cliente precisava de uma **página simples, moderna e funcional** para divulgar seus serviços e gerar contato direto pelo WhatsApp.  
+O foco era **maximizar a taxa de conversão** de visitantes em clientes — especialmente para campanhas de tráfego pago e redes sociais.
 
 ---
 
-## 🖼️ Estrutura do projeto
+## 🎨 Resultado
+
+✅ **Design responsivo** e adaptado para mobile (prioridade mobile-first)  
+✅ **Animações suaves (AOS)** para experiência visual envolvente  
+✅ **Carrossel automático de depoimentos reais**  
+✅ **Integração com WhatsApp API** para atendimento direto  
+✅ **FAQ interativo** e seção de benefícios com ícones personalizados  
+✅ **Código limpo, leve e 100% estático** — hospedável em qualquer serviço gratuito
+
+---
+
+## 🧠 Tecnologias e ferramentas
+
+- **HTML5**  
+- **TailwindCSS** (via CDN)  
+- **JavaScript Vanilla**  
+- **AOS (Animate On Scroll)**  
+- **WhatsApp API**
+
+---
+
+## 📸 Prévia do projeto
+
+> 💡 *Layout inspirado em grandes fintechs brasileiras, com tipografia forte, cores sólidas (azul royal, amarelo e branco) e microinterações de destaque.*
+
+![SamCreds Preview](https://github.com/alexsantos-djesus/-samcreds/assets/preview.png)
+
+*(A imagem acima é ilustrativa — o projeto real contém dados e imagens do cliente.)*
+
+---
+
+## 💬 Depoimento do cliente
+
+> “O site ficou **incrível**, moderno e direto ao ponto. Agora consigo atender os clientes muito mais rápido e gerar mais confiança. Foi exatamente o que eu precisava.”  
+> — **Samuel Lopes**, fundador da Sam_Creds
+
+---
+
+## 🔗 Link do projeto
+
+🌐 [Visualizar site completo (GitHub Pages ou Vercel)](https://alexsantos-djesus.github.io/-samcreds)
+
+---
+
+## 🧩 Estrutura simples e escalável
 
 ```
 📂 samcreds/
  ┣ 📁 assets/
- ┃ ┣ 🖼️ imagens e ícones usados no site
- ┃ ┗ 🧩 favicon.png
+ ┃ ┗ imagens, ícones e favicons
  ┣ 📄 index.html
  ┗ 📜 README.md
 ```
 
 ---
 
-## ⚙️ Como executar localmente
+## 🚀 Impacto
 
-1. Baixe o repositório:
-   ```bash
-   git clone https://github.com/alexsantos-djesus/-samcreds.git
-   ```
-
-2. Entre na pasta:
-   ```bash
-   cd -samcreds
-   ```
-
-3. Abra o arquivo no navegador:
-   ```bash
-   start index.html
-   ```
-   *(ou apenas arraste o arquivo para uma aba do navegador)*
+Após a entrega:
+- O cliente relatou aumento no **número de mensagens recebidas via WhatsApp**
+- Maior **credibilidade da marca nas redes sociais**
+- Melhoria na **comunicação com o público** e **presença digital mais profissional**
 
 ---
 
-## 📱 Contatos
+## 👨‍💻 Desenvolvido por
 
-- 💬 **WhatsApp:** [Clique para conversar](https://wa.me/5571982333570?text=Oi%2C+quero+antecipar+meu+FGTS+com+a+Sam_Creds%21+Como+funciona%3F)
-- 📸 **Instagram:** [@dc.samuellopes](https://www.instagram.com/dc.samuellopes)
+**Alex Santos**  
+Desenvolvedor Front-end | Criador de experiências web modernas e otimizadas  
+📍 Salvador — Bahia, Brasil  
 
----
-
-## 🧠 Desenvolvido por
-
-👨‍💻 **Alex Santos**  
-[GitHub](https://github.com/alexsantos-djesus) • [LinkedIn](https://www.linkedin.com/in/alex-santos-97977b29b/)
+[🌐 Portfólio](https://alexsantos-djesus.github.io) • [💼 LinkedIn](https://www.linkedin.com/in/alex-santos-97977b29b/) • [🐙 GitHub](https://github.com/alexsantos-djesus)
 
 ---
 
-> “Antecipe seu FGTS e realize seus sonhos com segurança e rapidez — 100% online com a Sam_Creds.”
+> “Sites que vendem, design que convence e código que entrega.”
