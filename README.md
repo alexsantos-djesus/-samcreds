@@ -38,9 +38,7 @@ O foco era **maximizar a taxa de conversão** de visitantes em clientes — espe
 
 > 💡 *Layout inspirado em grandes fintechs brasileiras, com tipografia forte, cores sólidas (azul royal, amarelo e branco) e microinterações de destaque.*
 
-![SamCreds Preview](https://github.com/alexsantos-djesus/-samcreds/assets/preview.png)
-
-*(A imagem acima é ilustrativa — o projeto real contém dados e imagens do cliente.)*
+![SamCreds Preview](https://github.com/alexsantos-djesus/-samcreds/blob/main/assets/preview.png)
 
 ---
 
@@ -53,7 +51,7 @@ O foco era **maximizar a taxa de conversão** de visitantes em clientes — espe
 
 ## 🔗 Link do projeto
 
-🌐 [Visualizar site completo (GitHub Pages ou Vercel)](https://alexsantos-djesus.github.io/-samcreds)
+🌐 [Visualizar site completo (GitHub Pages ou Vercel)](https://samcreds.debuguei.com.br/)
 
 ---
 
